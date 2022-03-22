@@ -1,10 +1,10 @@
 # series-and-films
 A .NET Console application made to train OOP
 
-# Technologies
+## Technologies
 - Dotnet
 
-# Starting the project
+## Starting the project
 ```
 dotnet run
 ```
